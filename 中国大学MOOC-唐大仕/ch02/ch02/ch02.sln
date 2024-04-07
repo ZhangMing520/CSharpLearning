@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "WindowsFormsApp1\PingPong.csproj", "{400F8B84-9101-46E5-9134-3CAE4B90C2E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{7B9F151C-A01C-4F00-9623-997068AD3097}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5B4DD3A-C21E-4F1B-AFC5-6267FFEF7ABF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScore", "AutoScore\AutoScore.csproj", "{CA5B607B-DC32-41D3-AC57-97B4B5E4651C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle99", "Circle99\Circle99.csproj", "{28F5619F-0F70-4483-B425-AFEC5359D04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveBlock", "MoveBlock\MoveBlock.csproj", "{275025BA-6572-449D-83FF-BF50FD0589E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400F8B84-9101-46E5-9134-3CAE4B90C2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400F8B84-9101-46E5-9134-3CAE4B90C2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400F8B84-9101-46E5-9134-3CAE4B90C2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400F8B84-9101-46E5-9134-3CAE4B90C2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5B607B-DC32-41D3-AC57-97B4B5E4651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5B607B-DC32-41D3-AC57-97B4B5E4651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5B607B-DC32-41D3-AC57-97B4B5E4651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5B607B-DC32-41D3-AC57-97B4B5E4651C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F5619F-0F70-4483-B425-AFEC5359D04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F5619F-0F70-4483-B425-AFEC5359D04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F5619F-0F70-4483-B425-AFEC5359D04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F5619F-0F70-4483-B425-AFEC5359D04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275025BA-6572-449D-83FF-BF50FD0589E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275025BA-6572-449D-83FF-BF50FD0589E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275025BA-6572-449D-83FF-BF50FD0589E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275025BA-6572-449D-83FF-BF50FD0589E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C604B1E8-B5EA-447B-9DE6-28969753D539}
+	EndGlobalSection
+EndGlobal
